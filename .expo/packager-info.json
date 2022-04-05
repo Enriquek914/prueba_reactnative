@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19003,
+  "expoServerPort": 19001,
+  "packagerPort": 19001,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://yc-dwx.anonymous.prueba.exp.direct",
+  "packagerNgrokUrl": "https://yc-dwx.anonymous.prueba.exp.direct",
+  "ngrokPid": 4400,
+  "packagerPid": null
+}
